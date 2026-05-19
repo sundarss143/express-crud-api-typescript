@@ -29,6 +29,8 @@ This project demonstrates CRUD operations using in-memory data storage.
 
 ## Project Structure
 
+```
+
 src/
 │
 ├── controllers/
@@ -45,6 +47,7 @@ src/
 │
 └── index.ts
 
+```
 ---
 
 ## Installation
